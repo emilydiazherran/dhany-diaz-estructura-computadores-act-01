@@ -45,5 +45,9 @@ La optimización busca disminuir las esperas del pipeline sin modificar el resul
 
 **Estructura de Computadores 1**
 
+**Facultad de Ingeniería**
+
+**Programa de Ingeniería Informática**
+
 **Universidad Internacional de La Rioja (UNIR)**
 
